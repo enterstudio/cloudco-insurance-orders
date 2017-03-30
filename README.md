@@ -1,5 +1,7 @@
 # Cloud Insurance Co. - Orders
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/enterstudio/cloudco-insurance-orders.svg)](https://greenkeeper.io/)
+
 | **master** | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-orders.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-orders) |
 | ----- | ----- |
 | **dev** | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-orders.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-orders) |

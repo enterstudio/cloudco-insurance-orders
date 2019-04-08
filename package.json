@@ -8,7 +8,7 @@
   "dependencies": {
     "body-parser": "1.12.x",
     "cf-deployment-tracker-client": "*",
-    "cfenv": "1.0.x",
+    "cfenv": "1.2.1",
     "cloudant": "1.6.x",
     "consolidate": "0.11.x",
     "cors": "2.5.x",
@@ -16,7 +16,7 @@
     "chai": "latest",
     "chai-as-promised": "latest",
     "colors": "latest",
-    "grunt": "~0.4.5",
+    "grunt": "~1.0.4",
     "grunt-concurrent": "latest",
     "grunt-contrib-jshint": "latest",
     "grunt-contrib-watch": "latest",

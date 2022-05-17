@@ -12,7 +12,7 @@
     "cloudant": "1.6.x",
     "consolidate": "0.11.x",
     "cors": "2.5.x",
-    "express": "3.20.x",
+    "express": "4.0.0",
     "chai": "latest",
     "chai-as-promised": "latest",
     "colors": "latest",

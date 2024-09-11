@@ -6,13 +6,13 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "body-parser": "1.12.x",
+    "body-parser": "1.20.3",
     "cf-deployment-tracker-client": "*",
     "cfenv": "1.0.x",
     "cloudant": "1.6.x",
     "consolidate": "0.11.x",
     "cors": "2.5.x",
-    "express": "3.20.x",
+    "express": "4.20.0",
     "chai": "latest",
     "chai-as-promised": "latest",
     "colors": "latest",
